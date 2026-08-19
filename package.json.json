@@ -1,0 +1,12 @@
+{
+  "name": "kento-hub",
+  "version": "1.0.0",
+  "description": "Kento Hub - コード共有サービス",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
